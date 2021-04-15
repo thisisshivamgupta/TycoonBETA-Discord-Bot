@@ -4,6 +4,6 @@
  * Follow the instructions given below!<br>
 `BODY`
 ## Suggests, Bugs, Feature Requests
-* Fill free to put PR.
+* Fill free to put `PR`.
  <br>
  <br>~created by thisisshivamgupta
