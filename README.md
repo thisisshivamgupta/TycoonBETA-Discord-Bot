@@ -6,4 +6,6 @@
  `BODY`
  <br>
  <br>
- ~created by thisisshivamgupta
+ ##Suggests, Bugs, Feature Requests
+ * Fill free to put your PR!<br><br>
+  ~created by thisisshivamgupta
