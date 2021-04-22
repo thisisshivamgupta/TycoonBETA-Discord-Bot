@@ -10,11 +10,11 @@ public class FilterOnOff extends ListenerAdapter {
 
     @Override
     public void onGuildMessageReceived(GuildMessageReceivedEvent event) {
-        if(event.getMessage().getContentRaw().equalsIgnoreCase(TycoonBETA.prefix+"togglefilter")&& filterOn){
+        if(event.getMessage().getContentRaw().equalsIgnoreCase(TycoonBETA.prefix+"filter")&& filterOn){
             filterOn= false;
 
             event.getChannel().sendMessage("The Curse-filter has been disabled by "+event.getMember().getUser().getName()).queue();
-        }else if(event.getMessage().getContentRaw().equalsIgnoreCase(TycoonBETA.prefix+"togglefilter")&& !filterOn){
+        }else if(event.getMessage().getContentRaw().equalsIgnoreCase(TycoonBETA.prefix+"filter")&& !filterOn){
             filterOn=true;
 
             event.getChannel().sendMessage("The Curse-filter has been enabled by "+event.getMember().getUser().getName()).queue();

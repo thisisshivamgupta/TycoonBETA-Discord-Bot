@@ -3,12 +3,59 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ab7a0d-3dbb-4811-b6aa-20afefed5715" name="Default Changelist" comment="" />
+    <list default="true" id="99ab7a0d-3dbb-4811-b6aa-20afefed5715" name="Default Changelist" comment="Updating with JDA Utilities">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tycoon/utilityCommands/utilityCalculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tycoon/utilityCommands/utilityClear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tycoon/utilityCommands/utilityFilterMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tycoon/utilityCommands/utilityFiterOnOff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tycoon/utilityCommands/utilityInviteCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tycoon/utilityCommands/utilityServerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tycoon/utilityCommands/utilityUserInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tycoon/Filter/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tycoon/Filter/Filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tycoon/commands/Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tycoon/commands/Calculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tycoon/commands/Commands.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tycoon/commands/FilterMessageOnOff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tycoon/commands/FilterMessageOnOff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tycoon/commands/FilterOnOff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tycoon/commands/FilterOnOff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tycoon/commands/UserInfoCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tycoon/tycoonmain/TycoonBETA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tycoon/tycoonmain/TycoonBETA.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,7 +82,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Events" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
@@ -72,33 +123,161 @@
       <option name="presentableId" value="Default" />
       <updated>1617702681457</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding README.md file.">
+      <created>1618403160176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618403160176</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updating suggestion tab">
+      <created>1618477173071</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618477173072</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/thisi/IntellijIdea/Tycoon BETA/src/main/java/Tycoon/commands" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding README.md file." />
+    <MESSAGE value="Updating suggestion tab" />
+    <MESSAGE value="Updating with JDA Utilities" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating with JDA Utilities" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="444" key="GridCell.Tab.0.bottom" timestamp="1618145197439">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1618477772102">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="444" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618145197439" />
-    <state width="1493" height="444" key="GridCell.Tab.0.center" timestamp="1618145197439">
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1618477772102" />
+    <state x="958" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1619078070207">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="444" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618145197439" />
-    <state width="1493" height="444" key="GridCell.Tab.0.left" timestamp="1618145197439">
+    <state x="958" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1619078070207" />
+    <state x="535" y="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1619070419808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="444" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618145197439" />
-    <state width="1493" height="444" key="GridCell.Tab.0.right" timestamp="1618145197439">
+    <state x="535" y="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1619070419808" />
+    <state x="883" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619078769205">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="444" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618145197439" />
+    <state x="883" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1619078769205" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1618477185895">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1618477185895" />
+    <state x="641" y="314" key="Github.ShareDialog" timestamp="1618383000379">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="641" y="314" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1618383000379" />
+    <state x="546" y="27" key="Github.UntrackedFilesDialog" timestamp="1618383123070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="546" y="27" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1618383123070" />
+    <state width="1537" height="67" key="GridCell.Tab.0.bottom" timestamp="1619079331235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="67" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619079331235" />
+    <state width="1537" height="67" key="GridCell.Tab.0.center" timestamp="1619079331235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="67" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619079331235" />
+    <state width="1537" height="67" key="GridCell.Tab.0.left" timestamp="1619079331234">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="67" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619079331234" />
+    <state width="1537" height="67" key="GridCell.Tab.0.right" timestamp="1619079331235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="67" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619079331235" />
+    <state x="147" y="65" key="MergeDialog" timestamp="1618403522113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="65" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1618403522113" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1618477189525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1618477189525" />
+    <state x="587" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618382777926">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="587" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1618382777926" />
     <state x="302" y="66" width="995" height="691" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1618126201288">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="302" y="66" width="995" height="691" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1618126201288" />
-    <state x="480" y="129" width="576" height="566" key="find.popup" timestamp="1617717937615">
+    <state x="480" y="129" width="576" height="566" key="find.popup" timestamp="1619078406815">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="480" y="129" width="576" height="566" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1617717937615" />
+    <state x="480" y="129" width="576" height="566" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1619078406815" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1618402746785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1618402746785" />
+    <state x="561" y="271" key="scopes" timestamp="1619078891929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="561" y="271" key="scopes/0.0.1536.824@0.0.1536.824" timestamp="1619078891929" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
