@@ -10,7 +10,7 @@
 * <img src="Tycoon_DM_Commands.png" width="300" align="left"><br />
  <br><br/>
 
-~created by thisisshivamgupta
+<br><br><br><br><br><br><br><br><br>~created by thisisshivamgupta
 
 
 
