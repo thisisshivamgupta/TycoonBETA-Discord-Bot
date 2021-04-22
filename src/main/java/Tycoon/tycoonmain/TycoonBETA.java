@@ -19,7 +19,7 @@ public static JDA jda;
 public static String prefix = "~";
 //main method
 public static void main(String[] args) throws LoginException {
-    jda= new JDABuilder(AccountType.BOT).setToken("ODI4ODg2MTQ1NTE3NjE3MTcz.YGwGYQ.tjvXNHgp6xCQXUNaOcmilM03GDE").build();
+    jda= new JDABuilder(AccountType.BOT).setToken("PUT_YOUR_BOT'S_TOKEN").build();
     jda.getPresence().setStatus(OnlineStatus.ONLINE);
     jda.addEventListener(new Clear());
     jda.addEventListener(new GuildMemberJoin());
@@ -32,6 +32,11 @@ public static void main(String[] args) throws LoginException {
     jda.addEventListener(new FilterOnOff());
     jda.addEventListener(new FilterMessageOnOff());
     jda.addEventListener(new ChannelCreate());
+    
+    jda.addEventListener(new GuildMessageReceived());
+    jda.addEventListener(new GuildMessageReactionAdd());
+
+
 
     EventWaiter waiter = new EventWaiter();
     CommandClientBuilder builder =new CommandClientBuilder();
@@ -65,10 +70,6 @@ public static void main(String[] args) throws LoginException {
 
 
 
-
-    /*jda.addEventListener(new GuildMessageReceived());
-    jda.addEventListener(new GuildMessageReactionAdd());
-*/
 
 
 
