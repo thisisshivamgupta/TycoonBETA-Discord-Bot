@@ -8,12 +8,17 @@
  
 # Behavior On Real World
 <img src="Tycoon_DM_Commands.png" width="300" align="left"><br />
+ <br><br/>
 
 
 <img src="tycoon_WELMSG.png" width="300" align="left"><br />
+<br><br/>
 
  
-<img src="Tycoon_ReplyOnHi_hello.png" width="300" align="left">
- 
-  
- <br />~created by thisisshivamgupta
+<img src="Tycoon_ReplyOnHi_hello.png" width="300" align="left"><br />
+<br><br/>
+
+
+
+
+
